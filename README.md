@@ -3,7 +3,7 @@
 ## Sobre o projeto
 O DSList é uma aplicação backend para gerenciamento de uma lista de jogos, desenvolvida como parte do Intensivão Java Spring. O projeto utiliza tecnologias modernas como Spring Boot, JPA/Hibernate e SQL para criar uma API RESTful funcional e escalável.
 
-A ideia central é permitir que os usuários organizem seus jogos em listas personalizadas, podendo criar, visualizar, atualizar e deletar registros, com a organização baseada em rankings.
+A ideia central é permitir que os usuários organizem seus jogos em listas personalizadas, podendo criar, visualizar e atualizar com a organização baseada em rankings.
 
 ## 🗂️ Modelo de Domínio
 O modelo de domínio da aplicação é representado no diagrama abaixo, que detalha as entidades principais do sistema:
